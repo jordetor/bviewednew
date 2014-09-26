@@ -45,6 +45,35 @@ body {
     width:100%;
 }
 
+.total {
+    height : 100vh;
+    width : 300vw;
+    position: absolute;
+}
+
+.page1 {
+    height : 100vh;
+    width : 100vw;
+    background-color: #000000;
+    display: block;
+    float: left;
+}
+.page2 {
+    height : 100vh;
+    width : 100vw;
+    background-color: green;
+    display: block;
+    float: left;
+    
+}
+.page3 {
+    height : 100vh;
+    width : 100vw;
+    background-color: blue;
+    display: block;
+    float: left;
+}
+
 /* Portrait layout (default) */
 .app {
     background:url(../img/logo.png) no-repeat center top; /* 170px x 200px */
