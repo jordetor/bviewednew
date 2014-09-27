@@ -10,6 +10,9 @@ xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <author>
         Joris Eertink
     </author>
+	
+	<preference name="DisallowOverscroll" value="true" />
+	
     <content src="index.html" />
     <access origin="*" />
 </widget>
