@@ -12,6 +12,7 @@ xmlns:cdv="http://cordova.apache.org/ns/1.0">
     </author>
 	
 	<preference name="DisallowOverscroll" value="true" />
+	<preference name="webviewbounce" value="false" />
 	
     <content src="index.html" />
     <access origin="*" />
